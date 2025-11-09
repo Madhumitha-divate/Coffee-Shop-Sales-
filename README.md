@@ -1,12 +1,13 @@
 Coffee Shop Sales Dashboard
+
 SQL | MySQL | Power BI | Data Modelling
 
 Project Overview:
-This end-to-end analytics project analyzes coffee shop sales data using MySQL for backend processing and Power BI for interactive dashboard creation.
-The goal is to help store owners understand sales performance, product trends, customer demand, and store-level insights to support daily decision-making.
+    This end-to-end analytics project analyzes coffee shop sales data using MySQL for backend processing and Power BI for interactive dashboard creation.The goal is to help store owners understand sales performance, product trends, customer demand, and store-level insights to support daily decision-making.
 
  Problem Statement:
-A retail coffee shop chain is experiencing inconsistent revenue across stores and product categories.
+   A retail coffee shop chain is experiencing inconsistent revenue across stores and 
+ product categories.
 Management does not have a consolidated view of:
 Daily/Monthly sales trends
 Best & worst performing products
