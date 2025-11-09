@@ -17,7 +17,7 @@ Customer purchase patterns
 The objective is to build a centralized dashboard that highlights key insights and helps improve operational and sales decisions.
 
  Tools & Technologies:
- 
+
 MySQL – Data storage & SQL querying
 SQL – KPI calculations, joins, cleaning
 Power BI – Dashboard design & visualization
