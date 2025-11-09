@@ -9,16 +9,13 @@ Project Overview:
    A retail coffee shop chain is experiencing inconsistent revenue across stores and 
  product categories.
 Management does not have a consolidated view of:
-Daily/Monthly sales trends
-Best & worst performing products
-Store-wise performance comparison
+Daily/Monthly sales trends, Best & worst performing products, Store-wise performance comparison, 
 Peak business hours
 Customer purchase patterns
-
-The objective is to build a centralized dashboard that highlights key insights and helps improve operational and sales decisions.
+The objective is to build a centralized dashboard that highlights key 
+insights and helps improve operational and sales decisions.
 
  Tools & Technologies:
-
 MySQL – Data storage & SQL querying
 SQL – KPI calculations, joins, cleaning
 Power BI – Dashboard design & visualization
